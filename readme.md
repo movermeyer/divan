@@ -2,8 +2,8 @@
 
 [![Build Status](https://travis-ci.org/cloudant-labs/cloudant-python.png)](https://travis-ci.org/cloudant-labs/cloudant-python)
 [![Coverage Status](https://coveralls.io/repos/cloudant-labs/cloudant-python/badge.png)](https://coveralls.io/r/cloudant-labs/cloudant-python)
-[![PyPi version](https://pypip.in/v/cloudant/badge.png)](https://crate.io/packages/cloudant/)
-[![PyPi downloads](https://pypip.in/d/cloudant/badge.png)](https://crate.io/packages/cloudant/)
+[![PyPi version](https://img.shields.io/pypi/v/cloudant.svg)](https://crate.io/packages/cloudant/)
+[![PyPi downloads](https://img.shields.io/pypi/dm/cloudant.svg)](https://crate.io/packages/cloudant/)
 
 [futures]: http://docs.python.org/dev/library/concurrent.futures.html#future-objects
 [requests]: http://www.python-requests.org/en/latest/
